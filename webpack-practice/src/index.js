@@ -1,3 +1,2 @@
-import { heading } from "./home";
-
-console.log(heading);
+import "./styles.css";
+import "./home";
